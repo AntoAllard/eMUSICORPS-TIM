@@ -7,3 +7,7 @@ Le XSens Awinda offre une captation de données pour le corps en entier. Le syst
 Tableau de placement des capteurs :
 
 ![Tableau de positionnement des capteurs](../Images/tableau_positionnement_xsens_awinda.JPG)
+
+Il est important aussi de mesurer la dimension du corps de la personne qui portera les capteurs, puisque cela aura un incidence sur la calibration.
+
+![Tableau des mensurations](../Images/tableau_mensurations_xsens_awinda.JPG)
