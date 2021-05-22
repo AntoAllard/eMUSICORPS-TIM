@@ -1,2 +1,0 @@
-# Fonctionnement XSens Awinda
-

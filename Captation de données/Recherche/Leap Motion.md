@@ -7,3 +7,5 @@ Le Leap Motion de Ultraleap fonctionne avec deux caméras infrarouges et plusieu
 ## Installation et utilisation
 
 L'Installation du Leap Motion est plug and play et le meilleur moyen de tester si tout fonctionne comme il faut est en utilisant le Leap Motion Control Panel. Le Leap Motion  peut être orienté de deux manières différentes : sur le bureau (face à une table) et sur la tête (fixé à un casque VR/AR). Un pluggin Unity permet de tester le capteur dans quelque scènes différentes pour se familiariser avec celui-ci.
+
+## Autre information pertinente
