@@ -21,3 +21,11 @@ Dans la théorie, il est possible de d'envoyer les données en temps réel à di
 ![Tableau des options streaming](../Images/tableau_options_streamer.JPG)
 
 L'option qui nous intéresse dans notre cas est l'option Unity 3D. Cette option nous permet d'utiliser le plugin Unity pour transférer les données en temps réel vers Unity 3D.
+
+## Autres informations pertinentes
+
+Manuel d'utilisation : 
+https://www.xsens.com/hubfs/Downloads/Manuals/MVN_User_Manual.pdf?hsCtaTracking=1eacb2ea-b005-43d0-a2b7-55dbf7f6a4f7%7Cb08403d4-214e-42c7-9920-18ab2f35e714
+
+Base de connaissances : 
+https://base.xsens.com/knowledgebase/s/motion-capture-landing-page
