@@ -44,7 +44,7 @@ Dans notre utilisation du Leap Motion, nous avons besoin de capter les mains du 
 
 Bien qu'il est déconseillé d'utiliser le Leap Motion autre que pointant vers le haut ou sur un casque VR, nous pouvons l'utiliser sur un trépied pointant vers le bas en le mettant en vue "head-mounted device". Cela reproduit exactement un casque de réalité virtuelle qui regarde ses mains ou vers le sol.
 
-![Photo Leap motion sur trépied](../Images/leap_motion.jpg)
+<img src="../Images/leap_motion.jpg" alt="drawing" height="300"/>
 
 2. ...
 
