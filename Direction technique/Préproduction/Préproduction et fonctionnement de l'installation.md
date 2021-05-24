@@ -10,7 +10,7 @@ Descritpion des effets visuels recherchés
 
 ## Schéma de plantation
 
-<img src="../Images/schema_plantation.png" alt="Schéma de plantation" width="1000"/>
+<img src="../Images/schema_plantation_projection.png" alt="Schéma de plantation" width="1000"/>
 
 ## Liste des équipements
 
