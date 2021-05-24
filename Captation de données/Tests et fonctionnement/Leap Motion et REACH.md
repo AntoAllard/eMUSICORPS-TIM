@@ -38,10 +38,13 @@ Voici les étapes pour utiliser le Leap Motion avec REACH et récupérer les don
 
 ## Éléments à tester
 
-1. ...
+1. Voir si le capteur Leap Motion peut être utilisé visant vers le bas en position fixe
 
-Descritpion test
-Résultat
+Dans notre utilisation du Leap Motion, nous avons besoin de capter les mains du pianiste sur le clavier. Pour se faire il suffit de tester si le Leap Motion peut être attaché sur un trépied et pointer vers le bas.
+
+Bien qu'il est déconseillé d'utiliser le Leap Motion autre que pointant vers le haut ou sur un casque VR, nous pouvons l'utiliser sur un trépied pointant vers le bas en le mettant en vue "head-mounted device". Cela reproduit exactement un casque de réalité virtuelle qui regarde ses mains ou vers le sol.
+
+![Photo Leap motion sur trépied](../Images/leap_motion.jpg)
 
 2. ...
 
