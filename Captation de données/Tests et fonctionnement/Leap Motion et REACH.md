@@ -10,15 +10,15 @@ Voici les étapes pour utiliser le Leap Motion avec REACH et récupérer les don
 
 3. Activez le Leap Motion en appuyant sur l'icône caché du Leap motion et sélectionnez "Resume Tracking"
 
-    ![Screenshot resume tracking](../Images/resume_tracking.JPG)
+    <img src="../Images/resume_tracking.JPG" alt="Activation Leap Motion" height="400"/>
 
 4. Allez dans votre Control Panel du Leap Motion, puis dans l'onglet dépannage, cliquez sur "Visualiseur de diagnostic"
 
-    ![Screenshot depannage](../Images/depannage.JPG)
+    <img src="../Images/depannage.JPG" alt="Leap Motion Control Panel" height="400"/>
 
 5. Appuyez sur "V" jusqu'à ce que la vue soit configuré pour les appareils VR (head-mounted device)
 
-    ![Screenshot visualiseur de diagnostic](../Images/visualiseur.JPG)
+    <img src="../Images/visualiseur.JPG" alt="Visualiseur de diagnostic" height="400"/>
 
 6. Installez REACH à partir du GitHub - https://github.com/NiccoloGranieri/Reach
 
@@ -26,15 +26,15 @@ Voici les étapes pour utiliser le Leap Motion avec REACH et récupérer les don
 
 8. Cochez les cases "Head Mounted" ainsi que "Normalised Values"
 
-    ![Screenshot de REACH](../Images/reach.JPG)
+    <img src="../Images/reach.JPG" alt="REACH" height="400"/>
 
 9. Dans l'application de votre choix (ici Max/MSP), vous pouvez utiliser le port et/ou l'adresse IP de REACH (ici le port) pour transmettre les données
 
-    ![Screenshot de Max/MSP](../Images/receive.JPG)
+    <img src="../Images/receive.JPG" alt="Receiver" height="400"/>
 
 10. Voici la liste de données qui vous sera alors transmis par REACH
-
-    ![Screenshot de liste de données](../Images/donnees.JPG)
+    
+    <img src="../Images/donnees.JPG" alt="Liste des données" height="400"/>
 
 ## Éléments à tester
 
@@ -44,7 +44,7 @@ Dans notre utilisation du Leap Motion, nous avons besoin de capter les mains du 
 
 Bien qu'il est déconseillé d'utiliser le Leap Motion autre que pointant vers le haut ou sur un casque VR, nous pouvons l'utiliser sur un trépied pointant vers le bas en le mettant en vue "head-mounted device". Cela reproduit exactement un casque de réalité virtuelle qui regarde ses mains ou vers le sol.
 
-<img src="../Images/leap_motion.jpg" alt="drawing" height="300"/>
+<img src="../Images/leap_motion.jpg" alt="Leap Motion sur trépied" height="400"/>
 
 2. ...
 
