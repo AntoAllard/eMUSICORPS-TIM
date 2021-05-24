@@ -10,15 +10,15 @@ Voici les étapes pour utiliser le Leap Motion avec REACH et récupérer les don
 
 3. Activez le Leap Motion en appuyant sur l'icône caché du Leap motion et sélectionnez "Resume Tracking"
 
-![Screenshot resume tracking](../Images/resume_tracking.JPG)
+    ![Screenshot resume tracking](../Images/resume_tracking.JPG)
 
 4. Allez dans votre Control Panel du Leap Motion, puis dans l'onglet dépannage, cliquez sur "Visualiseur de diagnostic"
 
-![Screenshot depannage](../Images/depannage.JPG)
+    ![Screenshot depannage](../Images/depannage.JPG)
 
 5. Appuyez sur "V" jusqu'à ce que la vue soit configuré pour les appareils VR (head-mounted device)
 
-![Screenshot visualiseur de diagnostic](../Images/visualiseur.JPG)
+    ![Screenshot visualiseur de diagnostic](../Images/visualiseur.JPG)
 
 6. Installez REACH à partir du GitHub - https://github.com/NiccoloGranieri/Reach
 
@@ -26,15 +26,15 @@ Voici les étapes pour utiliser le Leap Motion avec REACH et récupérer les don
 
 8. Cochez les cases "Head Mounted" ainsi que "Normalised Values"
 
-![Screenshot de REACH](../Images/reach.JPG)
+    ![Screenshot de REACH](../Images/reach.JPG)
 
 9. Dans l'application de votre choix (ici Max/MSP), vous pouvez utiliser le port et/ou l'adresse IP de REACH (ici le port) pour transmettre les données
 
-![Screenshot de Max/MSP](../Images/receive.JPG)
+    ![Screenshot de Max/MSP](../Images/receive.JPG)
 
 10. Voici la liste de données qui vous sera alors transmis par REACH
 
-![Screenshot de liste de données](../Images/donnees.JPG)
+    ![Screenshot de liste de données](../Images/donnees.JPG)
 
 ## Éléments à tester
 
