@@ -10,6 +10,8 @@ Descritpion des effets visuels recherchés
 
 ## Schéma de plantation
 
+<img src="../Images/schema_plantation.png" alt="Schéma de plantation" width="1000"/>
+
 ## Liste des équipements
 
 ## Horaire d'implantation pour les tests
