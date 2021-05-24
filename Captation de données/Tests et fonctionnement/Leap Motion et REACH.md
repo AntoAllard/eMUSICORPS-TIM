@@ -30,7 +30,7 @@ Voici les étapes pour utiliser le Leap Motion avec REACH et récupérer les don
 
 9. Dans l'application de votre choix (ici Max/MSP), vous pouvez utiliser le port et/ou l'adresse IP de REACH (ici le port) pour transmettre les données
 
-    <img src="../Images/receive.JPG" alt="Receiver" width="400"/>
+    <img src="../Images/receive.JPG" alt="Receiver" width="200"/>
 
 10. Voici la liste de données qui vous sera alors transmis par REACH
     
@@ -40,11 +40,11 @@ Voici les étapes pour utiliser le Leap Motion avec REACH et récupérer les don
 
 1. Voir si le capteur Leap Motion peut être utilisé visant vers le bas en position fixe
 
-Dans notre utilisation du Leap Motion, nous avons besoin de capter les mains du pianiste sur le clavier. Pour se faire il suffit de tester si le Leap Motion peut être attaché sur un trépied et pointer vers le bas.
+    Dans notre utilisation du Leap Motion, nous avons besoin de capter les mains du pianiste sur le clavier. Pour se faire il suffit de tester si le Leap Motion peut être attaché sur un trépied et pointer vers le bas.
 
-Bien qu'il est déconseillé d'utiliser le Leap Motion autre que pointant vers le haut ou sur un casque VR, nous pouvons l'utiliser sur un trépied pointant vers le bas en le mettant en vue "head-mounted device". Cela reproduit exactement un casque de réalité virtuelle qui regarde ses mains ou vers le sol.
+    Bien qu'il est déconseillé d'utiliser le Leap Motion autre que pointant vers le haut ou sur un casque VR, nous pouvons l'utiliser sur un trépied pointant vers le bas en le mettant en vue "head-mounted device". Cela reproduit exactement un casque de réalité virtuelle qui regarde ses mains ou vers le sol.
 
-<img src="../Images/leap_motion.jpg" alt="Leap Motion sur trépied" width="400"/>
+    <img src="../Images/leap_motion.jpg" alt="Leap Motion sur trépied" width="400"/>
 
 2. ...
 
