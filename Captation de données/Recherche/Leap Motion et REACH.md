@@ -8,4 +8,14 @@ Le Leap Motion de Ultraleap fonctionne avec deux caméras infrarouges et plusieu
 
 L'Installation du Leap Motion est plug and play et le meilleur moyen de tester si tout fonctionne comme il faut est en utilisant le Leap Motion Control Panel. Le Leap Motion  peut être orienté de deux manières différentes : sur le bureau (face à une table) et sur la tête (fixé à un casque VR/AR). Un pluggin Unity permet de tester le capteur dans quelque scènes différentes pour se familiariser avec celui-ci.
 
+## Utilisation avec REACH
+
+Reach est une application gratuite et open source, écrite en utilisant JUCE, pour mapper les données de Leap Motion aux messages OSC. En utilisant le dernier Leap Motion SDK Orion, cette application permet de mapper facilement les paramètres du Leap Motion dans tout autre environnement sans avoir à coder une seule ligne. Il suffit de lancer l'application REACH après avoir activé le capteur Leap Motion et grâce à l'option qui nous permet d'obtenir une adresse IP ainsi qu'un port unique, il est possible d'envoyer les données sous forme de messages OSC vers d'autres applications comme par exemple Pure Data ou Max/MSP.
+
 ## Autre information pertinente
+
+Liens vers la documentation du Leap Motion:
+https://docs.ultraleap.com
+
+Liens vers la documentation de REACH:
+https://github.com/NiccoloGranieri/Reach

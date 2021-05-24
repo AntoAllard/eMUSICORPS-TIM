@@ -14,3 +14,10 @@ L'application mobile DOT conçue exclusivement pour les capteurs DOT nous permet
 
 Par contre, grâce à leur SDK disponible pour iOS et Android, ainsi que le Xsens DOT Server, il est possible, avec un ordinateur possédant une connectivité Bluetooth, de recevoir directement les données sur ordinateur et ensuite les transmettre vers un autre logiciel de son choix.
 
+## Autre information pertinente
+
+Lien vers les capteurs DOT:
+https://www.xsens.com/xsens-dot?utm_term=xsensdot&utm_medium=ppc&utm_campaign=CAN+%7C+Search+%7C+Brand&utm_source=adwords&hsa_cam=11537670902&hsa_src=g&hsa_mt=e&hsa_ver=3&hsa_net=adwords&hsa_tgt=kwd-1155776015707&hsa_acc=1306794700&hsa_grp=111847232785&hsa_kw=xsensdot&hsa_ad=476804384851&gclid=CjwKCAjw-qeFBhAsEiwA2G7Nl1zq45NmTaHv38y1Ivt9yWipseE91V9k6sVdG5uCw3kyYGGbgseIqxoCwYMQAvD_BwE
+
+Lien vers le manuel d'utilisation:
+https://www.xsens.com/hubfs/Downloads/Manuals/Xsens%20DOT%20User%20Manual.pdf?hsCtaTracking=ba3917b0-c02b-4b83-9dd0-fcc0d06d0d13%7Ca200d741-4f23-4e67-9041-048d7a27de39
