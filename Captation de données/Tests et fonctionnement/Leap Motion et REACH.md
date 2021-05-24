@@ -38,20 +38,24 @@ Voici les étapes pour utiliser le Leap Motion avec REACH et récupérer les don
 
 ## Éléments à tester
 
-1. Voir si le capteur Leap Motion peut être utilisé visant vers le bas en position fixe
+1. Premier Test : Voir si le capteur Leap Motion peut être utilisé visant vers le bas en position fixe
 
     Dans notre utilisation du Leap Motion, nous avons besoin de capter les mains du pianiste sur le clavier. Pour se faire il suffit de tester si le Leap Motion peut être attaché sur un trépied et pointer vers le bas.
 
-    Bien qu'il est déconseillé d'utiliser le Leap Motion autre que pointant vers le haut ou sur un casque VR, nous pouvons l'utiliser sur un trépied pointant vers le bas en le mettant en vue "head-mounted device". Cela reproduit exactement un casque de réalité virtuelle qui regarde ses mains ou vers le sol.
+    Résultat: Bien qu'il est déconseillé d'utiliser le Leap Motion autre que pointant vers le haut ou sur un casque VR, nous pouvons l'utiliser sur un trépied pointant vers le bas en le mettant en vue "head-mounted device". Cela reproduit exactement un casque de réalité virtuelle qui regarde ses mains ou vers le sol.
 
     <img src="../Images/leap_motion.jpg" alt="Leap Motion sur trépied" width="400"/>
 
-2. ...
+2. Deuxième Test : Voir si le logiciel REACH convient à nos besoins
 
-Descritpion test
-Résultat
+    Pour que REACH nous soit utile, nous avons besoin de voir quelles données il transfert et sous quel format. La transmission attendu doivent nous permettre de facilement récupérer les données individuellement et de façon a pouvoir les ré-utiliser en temps réel.
 
-3. ...
+    Résultat: Les données sont transmises par messages OSC et sont déjà normalisées. La transmission de REACH grâce au port et Ip se fait simplement et toutes les données des points des mains sont disponibles en x, y, z et les informations comme par exemple la main ouverte ou fermée en entier 0, 1. 
 
-Descritpion test
-Résultat
+    <img src="../Images/donnees.JPG" alt="Liste des données" width="400"/>
+
+3. Troisième Test : Voir si la capteur peut capter entièrement un clavier de piano
+
+    Le pianiste doit déplacer beaucoup ses mains pendant l'exécution de ses pièces musicales. Il faut que le capteur Leap Motion soit capable de capter tout le clavier ou au moins une grande partie de celui-ci pour que l'utilisation du Leap Motion soit efficace.
+
+    Résultat: J'ai recréé la largeur du clavier d'un piano sur mon bureau et testé les extrémités pour observer la captation. Bien que moins précis vers la fin du clavier, le capteur était tout de même efficace pour la quasi-totalité du piano.
