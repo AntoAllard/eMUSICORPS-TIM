@@ -6,7 +6,9 @@ Descritpion des effets visuels recherchés
 
 ## Schéma de branchement
 
-Fonctionnement : 
+<img src="../Images/schéma_branchement_eMUSICORPS.png" alt="Schéma de branchement" width="1000"/>
+
+## Fonctionnement
 
 L'ordinateur qui génère les effets visuels envoie de 1 à 9 sorties vidéos (6 dans notre cas) vers un Pixel Map en format 4K divisé en neuf espaces symétriques de 1280 x 720. Une fois le Pixel Map remplit selon les désirs du créateur, la source est envoyé vers une carte de capture 4K 30fps, puis vers un deuxième ordinateur qui s'occupera de séparer le Pixel Map. 
 
@@ -29,10 +31,6 @@ Il faut savoir qu'un ordinateur peut seulement s'occuper de maximum trois projec
 Par contre, si les vidéos doivent passer par MadMapper, il serait mieux que les trois vidéos soient séparées, donc au lieu de grouper les vidéos, il suffit de ne pas grouper les différentes sources et de leur appliquer chacun un filtre NDI dédié unique, et d'envoyer les vidéos indépendemment vers l'ordinateur souhaité.
 
 <img src="../Images/NDIdediesimple.JPG" alt="Filtre NDI" width="1000"/>
-
-
-
-<img src="../Images/schéma_branchement_eMUSICORPS.png" alt="Schéma de branchement" width="1000"/>
 
 ## Schéma de plantation
 
