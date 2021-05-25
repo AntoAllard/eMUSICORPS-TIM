@@ -47,13 +47,39 @@ Pour finir, dans MadMapper il suffit de choisir la source vidéo selon le nom do
 
 Vidéo : 
 
+- 6 Projecteurs short throw, ratio 0.5, 3000 lumens
+
+- 3 Ordinateurs Desktop
+
 Audio :
 
 Lumières : 
 
+- 1 Chauvet DJ EVE E-100Z 100W Warm White Ellipsoidal Spot 
+
 Câbles et cartes :
 
+- 1 Carte de capture HDMI 4K 30FPS
+
+- 6 Extender réseau HDMI
+
+- 14 câbles cat6a Ethernet 10'
+
+- 9 câbles HDMI 8'
+
+- 4 câble HDMI to Display Port 
+
 Autre :
+
+- Pixel Map 4K séparé en 9 * 1280 x 720
+
+Logiciels : 
+
+- OBS + NDI
+
+- MadMapper
+
+
 
 ## Horaire d'implantation pour les tests
 
