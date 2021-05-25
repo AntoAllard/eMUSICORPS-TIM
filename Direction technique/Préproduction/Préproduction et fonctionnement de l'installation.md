@@ -67,11 +67,17 @@ Câbles et cartes :
 
 - 9 câbles HDMI 8'
 
-- 4 câble HDMI to Display Port 
+- 4 câble HDMI to Display Port
+
+- 2 câble XLR 10'
+
+- 1 XLR to USB
 
 Autre :
 
-- Pixel Map 4K séparé en 9 * 1280 x 720
+- 6 systèmes d'accrochage pour projecteurs
+
+- 7 câbles de sécurité
 
 Logiciels : 
 
@@ -79,7 +85,17 @@ Logiciels :
 
 - MadMapper
 
+- Pixel Map 4K séparé en 9 * 1280 x 720
 
 
 ## Horaire d'implantation pour les tests
 
+Lundi 17 mai : Récupération du Matériel, accrochage et branchement.
+
+Mardi 18 mai : Mise en place des logiciels et tests de transmission.
+
+Mardi 25 mai : Mise en place du haut parleur et pauffinement.
+
+Mercredi 26 mai : Premiers tests avec Antoine Gaudreau pour les effets visuels.
+
+Jeudi 27 mai : Continuité des tests et démontage du matériel.
