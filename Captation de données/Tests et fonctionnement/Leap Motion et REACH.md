@@ -59,3 +59,7 @@ Voici les étapes pour utiliser le Leap Motion avec REACH et récupérer les don
     Le pianiste doit déplacer beaucoup ses mains pendant l'exécution de ses pièces musicales. Il faut que le capteur Leap Motion soit capable de capter tout le clavier ou au moins une grande partie de celui-ci pour que l'utilisation du Leap Motion soit efficace.
 
     Résultat: J'ai recréé la largeur du clavier d'un piano sur mon bureau et testé les extrémités pour observer la captation. Bien que moins précis vers la fin du clavier, le capteur était tout de même efficace pour la quasi-totalité du piano.
+
+## Proposition du système Leap Motion
+
+<img src="../Images/schema_proposition.jpg" alt="Proposition Leap Motion" width="1000"/>
