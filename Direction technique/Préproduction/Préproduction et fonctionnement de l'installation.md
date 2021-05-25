@@ -32,6 +32,13 @@ Par contre, si les vidéos doivent passer par MadMapper, il serait mieux que les
 
 <img src="../Images/NDIdediesimple.JPG" alt="Filtre NDI" width="1000"/>
 
+Pour le transfert vers l'ordinateur qui s'occupe des projections, il est important que les deux ordianteurs soient sur le même réseau pour que NDI fonctionne. Donc sur l'instance OBS qui doit recevoir les vidéos, il suffit d'ajouter une source NDI avec comme source vidéo le filtre NDI dédié du vidéo voulu. Puis il suffit de répéter cette opération avec les trois filtres différents.
+
+<img src="../Images/sourceNDI.JPG" alt="Ajouter source NDI" width="1000"/>
+<img src="../Images/source_filtre.JPG" alt="Source filtre dédié" width="1000"/>
+
+Pour finir, dans MadMapper il suffit de choisir la source vidéo selon le nom donné à celle-ci dans OBS pour que le vidéo soit récupéré sur l'interface de MadMapper et puisse être modifié et placé par le logiciel.
+
 ## Schéma de plantation
 
 <img src="../Images/schema_plantation_projection.png" alt="Schéma de plantation" width="1000"/>
