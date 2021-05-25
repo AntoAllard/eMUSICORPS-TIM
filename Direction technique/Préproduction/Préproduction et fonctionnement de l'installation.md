@@ -2,7 +2,7 @@
 
 ## Nature du projet
 
-Descritpion des effets visuels recherchés
+Les effets visuels en temps réel seront projetés sur trois murs créant ainsi une immersion plus forte pour les spectateurs. La projection se fera sous forme de bande d'environ 6' dans le milieu du mur entre le sol et le plafond et se sur toute la longueur des trois murs. Il y aura donc six projecteurs qui, grâce à MadMapper et OBS, couvriront entièrement les murs et projetant des animations qui se suivent sur l'entièreté de la projection.
 
 ## Schéma de branchement
 
