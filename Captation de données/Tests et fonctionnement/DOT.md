@@ -64,12 +64,15 @@ Voici les étapes à suivre pour configurer l'environnement du Xsens DOT Server.
 
 
 12. Cliquer sur *Connect* pour chaque capteur.
+
     <img src="../Images/connect.png" alt="Connect" width="400"/>
 
 13. Cliquer sur *Start Logging* et choisir l'option souhaitée.
+
     <img src="../Images/choices_log.png" alt="Start Logging" width="400"/>
 
 14. Une fois l'enregistrement terminé, le ficher .csv se trouvera en bas de la page.
+
     <img src="../Images/logging_files.png" alt="Interface" width="400"/>
 
 Les instructions complètes sont disponibles [ici](https://github.com/xsens/xsens_dot_server?__hstc=81749512.53f77f8330742da66857bbcd2501f64e.1617717751116.1622079176520.1622084171852.14&__hssc=81749512.1.1622084171852&__hsfp=3373981959&hsCtaTracking=d055c622-0f36-4452-bcbf-6779ece95f4b%7Cd8bc74b6-b1ba-4fbb-9a5e-d5bcbf7756ed) (en anglais).
